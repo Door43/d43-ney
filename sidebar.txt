@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ney:home|Door43 (ney)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ney|d43-ney repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ney/archive/master.zip|d43-ney.zip]]
+
+**Recent Changes**
+{{changes>ns = ney}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ney|Ethnologue data]]
+
